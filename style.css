@@ -1,3 +1,46 @@
 body{
     text-align: center;
 }
+
+path{
+    stroke: red;
+    stroke-width: 2px;
+}
+
+path:hover{
+    stroke: black;
+    stroke-width: 10px;
+}
+
+circle{
+    stroke: darkblue;
+}
+
+circle:hover{
+    stroke: black;
+    stroke-width: 10px;
+}
+
+#torso{
+    fill: blue;
+}
+
+#left_leg{
+    fill: green;
+}
+
+#left_arm{
+    fill: indigo;
+}
+
+#right_arm{
+    fill: yellow;
+}
+
+#ball{
+    fill: hotpink;
+}
+
+#head{
+    fill: olive;
+}
